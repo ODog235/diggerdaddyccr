@@ -1,0 +1,17 @@
+h1{color: #764010;}
+h2{color: #090434;}
+p{color: #202021;}
+img {
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+}
+img {
+    border: 5px solid #555;
+}
+button {border: 5px solid #764010;}
+button{
+    height: 10%;
+    width: 20%;
+}
